@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="fragment_home">Trang chủ</string>
+    <string name="fragment_account">Tài khoản</string>
+    <string name="tv_search">Tìm kiếm</string>
+    <string name="tv_major_list">Các khoa</string>
+    <string name="tv_teacher_in_major">Các giảng viên thuộc khoa</string>
+    <string name="tv_subject_in_major">Danh sách bộ môn giảng dạy</string>
+    <string name="tv_see_more">Xem thêm</string>
+    <string name="email">Email</string>
+    <string name="pass">Mật khẩu</string>
+    <string name="kma_name">HỌC VIỆN KỸ THUẬT MẬT MÃ</string>
+    <string name="login">Đăng nhập</string>
+    <string name="forgot_pass">Quên mật khẩu</string>
+    <string name="description">Mô tả: </string>
+    <string name="major">Khoa: </string>
+    <string name="numOfSub">Số môn học giảng dạy: </string>
+    <string name="subject_list">Danh sách môn học giảng dạy</string>
+    <string name="teaching_assessment">Đánh giá giảng dạy</string>
+    <string name="news">Tin tức và sự kiện</string>
+</resources>
